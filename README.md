@@ -45,7 +45,7 @@ Contributions are what makes the open source community such an amazing place to 
 6. Open a pull request
 
 ## License
-Distributed under the ICS License.
+Distributed under the MIT License.
 
 ## References
 - Datasets that were used in here were taken from [KAGGLE](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset)
