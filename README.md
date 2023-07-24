@@ -35,7 +35,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly.express
 8. The app will display the results of the tracking.
 
 ## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the repo
 2. Clone the project
@@ -48,5 +48,5 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the ICS License.
 
 ## References
-- Datasets that were useD in here were taken from [KAGGLE](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset)
+- Datasets that were used in here were taken from [KAGGLE](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset)
 - This project was made during my internship period for [Edunet Foundation](https://edunetfoundation.org) in association with [IBM SkillsBuild](https://skillsbuild.org) and [AICTE](https://internship.aicte-india.org)
